@@ -3,8 +3,11 @@
 ## All components are docker-based
 
 Step 1: Create folder app and put inside compose.yml file.
+
 Step 2: Create folder php inside app folder.
+
 Step 3: Put inside php folder, index.php and Dockerfile.
+
 Step 4: Go to docker-compose.yml file location and execute the following command. This will create three docker containers for PHP,Mysql and phpMyadmin.
 
     docker-compose up 
