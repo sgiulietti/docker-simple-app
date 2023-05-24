@@ -1,6 +1,6 @@
-# Demo app for run php-apache,mysql and phpMyadmin using containers
+## Demo app for run php-apache,mysql and phpMyadmin using containers
 
-## All components are docker-based
+### All components are docker-based
 
 Step 1: Create folder app and put inside compose.yml file.
 
